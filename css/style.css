@@ -1,0 +1,51 @@
+body{
+    
+}
+.brand-name h1{
+    color:#76c27e;
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+}
+.colorfull-text,.heading-color{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.heading-color{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size:40px;
+    letter-spacing: 1.1;
+}
+.btn-bg-color{
+background:#346939;
+border:none;
+}
+.feature-discription h2{
+    color:#363958;
+    font-weight:600;
+    
+}
+.nike-title-color{
+    color:#363958;
+    font-weight:700;
+    font-size:25px;
+}
+.nike-card-footer{
+    background:transparent;
+    border:none;
+    padding:20px 20px;
+}
+#nike-card-1, #nike-card-2, #nike-card-3, #nike-card-4, #nike-card-5, #nike-card-6{
+    border:none;
+}
+.font-size{
+    font-size:40px;
+}
+.subsribe{
+    border:none;
+}
+body{
+    background:#FFF9F4;
+    box-sizing:content-box;
+}
